@@ -1,0 +1,5 @@
+关于 miniconda/anaconda 的安装，tuna 主页上展示的链接一直没有更新，有点过时了。大家可以直接用下面这个链接下载安装。
+
+Windows: https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-latest-Windows-x86_64.exe
+macOS (Apple Silicon): https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-2023.09-0-MacOSX-arm64.pkg
+macOS (Intel): https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-2023.09-0-MacOSX-x86_64.pkg
